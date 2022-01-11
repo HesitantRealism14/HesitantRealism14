@@ -1,8 +1,4 @@
 # HesitantRealism14
-* :zap: I love programming, data science, and yoga
-* :tada: Currently I am doing the AI Track of the Udacity Bertelsmann Technology Scholarship program 
-* :computer: I will also start doing Le Wagon's Data Science Bootcamp starting this March
-* 📫 Find me on [LinkedIn](https://www.linkedin.com/in/rachelliuuchicago/)
 
 [![HesitantRealism14's github stats](https://github-readme-stats.vercel.app/api?username=HesitantRealism14&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/HesitantRealism14/github-readme-stats)
 
