@@ -1,4 +1,6 @@
 # HesitantRealism14
+### 💻 Le Wagon Graduation Project
+https://aiworkoutassistant.herokuapp.com/
 
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/anuraghazra/github-readme-stats">
