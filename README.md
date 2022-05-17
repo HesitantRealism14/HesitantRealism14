@@ -5,4 +5,3 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HesitantRealism14&layout=compact" />
 </a>
-![Visitor Count](https://profile-counter.glitch.me/HesitantRealism14/count.svg)
